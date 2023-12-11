@@ -1,0 +1,23 @@
+ID Registro Ingreso: 10
+Fecha de Ingreso: 2023-11-20
+
+Cliente: nada - Erick Perez
+
+Servicio: 1 - DOCENA DE PLANCHAS
+Detalle: MetodoDEplanchado
+Costo del Servicio: 50.0
+
+Prenda: 10 - PIEDRAS
+Cantidad: 2
+Precio por unidad: 50.0
+Precio total: 100.0
+
+Prenda: 10 - MOTOR
+Cantidad: 5
+Precio por unidad: 50.0
+Precio total: 250.0
+
+SubTotal:  350.0
+
+Fecha de Salida: 2023-11-20
+

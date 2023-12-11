@@ -1,0 +1,21 @@
+ID Registro Ingreso: 11
+Fecha de Ingreso: Mon Nov 20 15:11:36 PET 2023
+
+Cliente: 7653432 - Erick Perez
+
+Servicio: 2 -  Prendas
+Detalle: MuchasPrendas 
+Costo del Servicio: 45.0
+
+Prenda: 11 - Casacas
+Cantidad: 4
+Precio por unidad: 45.0
+Precio total: 180.0
+
+Prenda: 11 - Chullos
+Cantidad: 6
+Precio por unidad: 45.0
+Precio total: 270.0
+
+SubTotal:  450.0
+
